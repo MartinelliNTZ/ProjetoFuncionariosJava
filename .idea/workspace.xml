@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c350fd4b-1410-4722-827e-ac49fb767f5b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetoFuncionarios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetoFuncionarios.iml" afterDir="false" />
+    <list default="true" id="c350fd4b-1410-4722-827e-ac49fb767f5b" name="Changes" comment="finish him">
       <change beforePath="$PROJECT_DIR$/src/DadosConexao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DadosConexao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DatabaseMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseMySQL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +63,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670450500188</updated>
-      <workItem from="1670450501512" duration="4115000" />
+      <workItem from="1670450501512" duration="4450000" />
     </task>
+    <task id="LOCAL-00001" summary="finish him">
+      <created>1670454863694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670454863694</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish him" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish him" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
